@@ -1,0 +1,23 @@
+{
+  "name": "NodeJs-App",
+  "version": "0.0.1",
+  "description": "Simple Node js application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sample",
+    "node JS"
+  ],
+  "author": "Sowmya Rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
